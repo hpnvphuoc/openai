@@ -1,5 +1,8 @@
 # Changelog
 
+## My custom log
+
+
 ## NEXT
 
 - Support for logprobs in the chat completions API.
